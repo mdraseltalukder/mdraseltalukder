@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://ibb.co/Bqh2f00"  />
+
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="left">Hey , this is Rasel 👋</h1>
+<h1 align="center">Hey , this is Rasel 👋</h1>
 
 ###
 
