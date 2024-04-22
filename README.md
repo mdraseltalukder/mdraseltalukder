@@ -24,8 +24,8 @@
 </p>
 
 -💱I'm working as **full-stack web developer.** <br />
--⚡ In my free time I love to learn. **I love to learn.** <br />
--🕜 I'm currently increasing my skills more & more. **increasing my skills
+-⚡ In my free time **I love to learn.** <br />
+-🕜 I'm currently  **increasing my skills
 more & more** <br />
 -📫 How to reach me **mdrasel551219@gmail.com** <br />
 -⚡ Fun fact **i am funny😅**<br />
